@@ -59,7 +59,7 @@ This dataset and accompanying code are protected by copyright © 2025
 Use of this material is permitted for research and educational purposes with proper citation.
 
 Please cite as:  
-> Favero, R., & Elefteriadou, L. (2025). *Modeling and Evaluation of Autonomous Shuttle Car-Following Behavior Using Machine Learning Approaches*. IEEE Transactions on Intelligent Transportation Systems.
+> TBD
 
 ---
 
